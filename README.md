@@ -42,3 +42,14 @@ Tasks I must complete,
 - Change Albums & songs to just Albums
 - Finish 'photos' tab
 
+## Errors
+
+- Blu & Exile > https://tylerjdev.github.io/index.html?query=Blu+&+Exile&type=artist
+- Gorillaz > https://tylerjdev.github.io/index.html?query=Blu+&+Exile&type=artist
+- Search something twice (quickly), (i.e 'blu'), then click tracks, should get an error
+- https://tylerjdev.github.io/index.html?query=Mikael%20Tariverdiev&type=artist > Why is there a 'read more' link still?
+- Some albums don't load, (i.e, 'flowers while I can still smell them') <<<< Possibly add MusicBrainz as alt if can't figure out what's causing this error
+- https://tylerjdev.github.io/index.html?query=Blu+&+Madlib&type=artist
+- https://tylerjdev.github.io/index.html?query=Madlib&type=artist Or probably any other artist, if you click the album-songs tab too fast, it will display an error, probably because it tries to 'render' before it has the data ready via the api (?)
+- Homepage (probably any page that uses localstorage) won't load on private browsers, (i.e firefox, safari (on ios)) 
+
