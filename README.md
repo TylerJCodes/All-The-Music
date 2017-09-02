@@ -52,4 +52,4 @@ Tasks I must complete,
 - https://tylerjdev.github.io/index.html?query=Blu+&+Madlib&type=artist
 - https://tylerjdev.github.io/index.html?query=Madlib&type=artist Or probably any other artist, if you click the album-songs tab too fast, it will display an error, probably because it tries to 'render' before it has the data ready via the api (?)
 - Homepage (probably any page that uses localstorage) won't load on private browsers, (i.e firefox, safari (on ios)) 
-
+- https://tylerjdev.github.io/index.html?query=Johnson&Jonson&album=Johnson%20&%20Jonson&type=album
