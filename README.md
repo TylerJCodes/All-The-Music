@@ -17,7 +17,7 @@ Tasks I must complete,
 
 * Important // Tasks that are needed in order for the website to function as should.
 
-- Add something for songs (to look up, have their own page?)
+- Add way to get album data from tracks if tracks don't come with what album they come from
 - Rework site for mobile display
 - Add more comments to the code
 - Finish all pages
